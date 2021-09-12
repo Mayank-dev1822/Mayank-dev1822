@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer :)</h3>
 
 <style>
-    .row{
+    div{
         display: flex;   
      }
 </style>
