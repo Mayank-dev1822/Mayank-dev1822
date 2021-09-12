@@ -10,8 +10,8 @@
 
 - ⚡ Fun fact **I don't think HTML is a programming language**
 
-        <img alt="programming gif" aling="center" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
+        
+<p>&nbsp;<img alt="programming gif" aling="center" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
