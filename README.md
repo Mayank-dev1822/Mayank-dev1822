@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer :)</h3>
 
 
-<p style="display: flex;"> 
+<div style="display: flex;"> 
         
 <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
@@ -14,7 +14,7 @@
 
         
 <p>&nbsp;<img alt="programming gif" aling="center" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
-</p>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
