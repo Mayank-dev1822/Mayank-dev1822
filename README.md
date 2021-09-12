@@ -3,7 +3,7 @@
 
 <style>
     .row{
-        display: flex
+        display: flex;
     }
 </style>
 
