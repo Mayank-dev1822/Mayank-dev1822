@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate web developer :)</h3>
 
+<style>
+    .row{
+        display: flex;   
+     }
+</style>
 
-<div style="display: flex;"> 
+<div class="row"> 
         
 <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
