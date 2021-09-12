@@ -8,7 +8,7 @@
 </style>
 
 <div class="row">
-    <div class="col-sm">
+    <div class="col-sm" style="display: flex;">
         <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
         - 🔭 I’m currently working on [educatic](https://github.com/social-experiments/educatic/tree/mayank/ui_changes)
