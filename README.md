@@ -2,17 +2,13 @@
 <h3 align="center">A passionate web developer :)</h3>
 
 
-        <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
-        - 🔭 I’m currently working on [educatic](https://github.com/social-experiments/educatic/tree/mayank/ui_changes)
+- 🔭 I’m currently working on [educatic](https://github.com/social-experiments/educatic/tree/mayank/ui_changes)
 
-        - 📫 How to reach me **mayanksainimayank56@gmail.com**
+- 📫 How to reach me **mayanksainimayank56@gmail.com**
 
-        - ⚡ Fun fact **I don't think HTML is a programming language**
-
-
-
-
+- ⚡ Fun fact **I don't think HTML is a programming language**
 
 
 <h3 align="left">Connect with me:</h3>
