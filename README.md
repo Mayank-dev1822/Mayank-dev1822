@@ -11,7 +11,7 @@
         - ⚡ Fun fact **I don't think HTML is a programming language**
 
 
-        <p>&nbsp;<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="programming gif"/></p>
+
 
 
 
