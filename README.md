@@ -3,7 +3,7 @@
 
 <style>
     div{
-        display: flex;   
+        display: flex !important;   
      }
 </style>
 
