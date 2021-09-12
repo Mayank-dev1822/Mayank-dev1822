@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate web developer :)</h3>
 
-<p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
+<style>
+    .row{
+        display: flex
+    }
+</style>
 
-- 🔭 I’m currently working on [educatic](https://github.com/social-experiments/educatic/tree/mayank/ui_changes)
+<div class="row">
+    <div class="col-sm">
+        <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
-- 📫 How to reach me **mayanksainimayank56@gmail.com**
+        - 🔭 I’m currently working on [educatic](https://github.com/social-experiments/educatic/tree/mayank/ui_changes)
 
-- ⚡ Fun fact **I don't think HTML is a programming language**
+        - 📫 How to reach me **mayanksainimayank56@gmail.com**
+
+        - ⚡ Fun fact **I don't think HTML is a programming language**
+    </div>
+
+    <div class="col-sm">
+        <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+    </div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
