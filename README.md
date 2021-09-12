@@ -19,7 +19,7 @@
     </div>
 
     <div class="col-sm">
-        <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+        <p>&nbsp;<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="programming gif"/></p>
     </div>
 </div>
 
