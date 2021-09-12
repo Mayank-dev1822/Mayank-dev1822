@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I don't think HTML is a programming language**
 
         
-<p>&nbsp;<img alt="programming gif" aling="center" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
+<p>&nbsp;<img alt="programming gif" aling="center" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
 </div>
 
 
