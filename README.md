@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate web developer :)</h3>
 
-<style>
-    div{
-        display: flex !important;   
-     }
-</style>
 
-<div class="row"> 
         
 <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
@@ -19,7 +13,6 @@
 
         
 <p>&nbsp;<img alt="programming gif" aling="center" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
