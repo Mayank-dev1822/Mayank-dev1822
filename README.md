@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate developer :)</h3>
+<h3 align="center">Backend developer :)</h3>
 
 
  <p>&nbsp;<img alt="programming gif" align="right" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" /></p> 
  
 <p align="left"> <a href="https://twitter.com/mayank18108326" target="blank"><img src="https://img.shields.io/twitter/follow/mayank18108326?logo=twitter&style=for-the-badge" alt="mayank18108326" /></a> </p>
 
-- 🔭 I’m currently working on [educatic](https://github.com/social-experiments/educatic/tree/mayank/ui_changes)
+- 🔭 I’m currently working @ [Pragyaa LLC](https://github.com/chatcontract)
 
 - 📫 How to reach me **mayanksainimayank56@gmail.com**
 
