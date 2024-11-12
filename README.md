@@ -124,7 +124,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://my-github-stats-ten.vercel.app/api?username=mayank-dev1822&show_icons=true&theme=tokyonight&title_color=e04efd&text_color=3eeade&locale=en" alt="mayank-dev1822" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayank-dev1822/Mayank-dev1822/output/github-snake-dark.svg" />
